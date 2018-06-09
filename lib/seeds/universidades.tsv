@@ -1,0 +1,53 @@
+Nombre	ID	Sigla	Fundación	Sitio web	Gratuidad	Tipo	Nro de Alumnos	Nro de Profesores	Numero de grados	Nro de post-grados	Nro de doctorados	Lema	Descripción	Nivel
+Universidad de Chile	1	UCH	19/11/1842	www.uchile.cl	Si	Estatal	29883	3547	69	130	38	Construyendo la educación	Descripción	1
+Pontificia Universidad Católica de Chile	2	PUC	21/06/1888	www.uc.cl	Si	Privada	28311	3289	53	148	34	In Christi lumine pro mundi vita	Descripción	1
+Universidad de Concepción	3	UDEC	14/05/1919	www.udec.cl	Si	Privada	27468	1597	90	86	27	Por el desarrollo libre del espíritu	Descripción	1
+Universidad de Santiago de Chile	4	USACH	21/06/1948	www.usach.cl	No	Estatal	23839	2485	68	55	11	Labor lætitia nostra	Descripción	1
+Universidad Técnica Federico Santa María	5	USM	20/12/1931	www.usm.cl	Si	Privada	18514	739	47	17	6	Ex umbra in solem	Descripción	1
+Pontifica Universidad Católica de Valparaíso	6	PUCV	15/03/1928	www.pucv.cl	Si	Privada	19369	1386	59	46	15	Fides et Labor	Descripción	1
+Universidad Austral de Chile	7	UACh	07/09/1954	www.uach.cl	Si	Privada	13315	1485	52	44	10	La libertad se conquista	Descripción	1
+Universidad Diego Portales	8	UDP	04/10/1982	www.udp.cl	Si	Privada	16720	1400	34	46	6	Tradición, Innovación, Pluralismo	Descripción	1
+Universidad de Talca	9	UTAL	26/10/1981	www.utalca.cl	Si	Estatal	8652	386	43	26	8	Formando talentos para Chile y el mundo	Descripción	1
+Universidad Adolfo Ibáñez	10	UAI	1/1/1988	www.uai.cl	No	Privada	11496	303	10	43	4	La verdad nos liberará	Descripción	1
+Universidad de la Frontera	11	UFRO	20/03/1981	www.ufro.cl	Si	Estatal	9388	552	45	56	7	Itinerarium mentis ad veritatem	Descripción	1
+Universidad de Valparaíso	12	UV	12/02/1981	www.uv.cl	Si	Estatal	3129	1828	51	107	8	Tradición, excelencia e innovación	Descripción	1
+Universidad de los Andes	13	UANDES	08/09/1989	www.uandes.cl	No	Privada	18764	1517	35	49	4	El estudio universal del conocimiento en Los Andes	Descripción	1
+Universidad Andrés Bello	14	UNAB	01/10/1988	www.unab.cl	No	Privada	48131	4296	68	53	9	Tradición y Modernidad	Descripción	1
+Universidad Católica del Norte	15	UCN	31/05/1956	www.ucn.cl	Si	Privada	10280	388	44	33	6	Ver más allá	Descripción	1
+Universidad de Tarapacá	16	UTA	11/12/1981	www.uta.cl	Si	Estatal	8672	438	48	14	1	Universidad de verdad	Descripción	1
+Universidad del Bío-Bío	17	UBB	29/09/1988	www.ubiobio.cl	Si	Estatal	11149	589	40	33	4	La Universidad de la Región del Bio-Bío	Descripción	1
+Universidad del Desarrollo	18	UDD	01/01/1990	www.udd.cl	No	Privada	16660	1891	28	55	2	Universidad de Excelencia	Descripción	1
+Universidad Alberto Hurtado	19	UAH	20/10/1997	www.uahurtado.cl	Si	Privada	5726	205	35	24	4	Bienvenido a pensar. La universidad debe ser el centro donde se investiga y discute el bien común de la humanidad. Cambia el mundo	Descripción	1
+Universidad de La Serena	20	ULS	20/03/1981	www.userena.cl	Si	Estatal	6997	674	39	14	3	Tu Universidad Estatal en la Región de Coquimbo	Descripción	1
+Universidad de Antofagasta	21	UA	20/03/1981	www.uantof.cl	Si	Estatal	6334	670	47	10	3	Luz y vida en el desierto	Descripción	1
+Universidad Católica de Temuco	22	UCT	08/09/1959	www.uct.cl	Si	Privada	8828	690	56	15	2	Desde 1959 formando profesionales comprometidos con la Araucanía y Chile	Descripción	1
+Universidad Católica del Maule	23	UCM	10/07/1991	www.ucm.cl	Si	Privada	7137	826	27	17	2	Disfrutando cada etapa con alegría	Descripción	1
+Universidad Católica de la Santísima Concepción	24	UCSC	10/07/1991	www.ucsc.cl	Si	Privada	12728	1065	39	29	3	Apoyamos tus Talentos	Descripción	1
+Universidad San Sebastián	25	USS	27/10/1989	www.uss.cl	No	Privada	27107	4700	32	27	0	Creer, Crear, Emprender	Descripción	1
+Universidad de Playa Ancha	26	UPLA	20/03/1981	www.upla.cl	Si	Estatal	8089	591	66	18	2	Generadores de cambio. Et Tamen Stellae. Sin embargo estrellas	Descripción	1
+Universidad Mayor	27	U.Mayor	13/05/1988	www.umayor.cl	No	Privada	22549	3083	51	66	1	Para espíritus emprendedores	Descripción	1
+Universidad Metropolitana de Ciencias de la Educación	28	UMCE	29/04/1989	www.umce.cl	Si	Estatal	4793	525	22	16	1	Veritas Lux Humanitatis	Descripción	1
+Universidad Finis Terrae	29	UFT	01/03/1988	www.finisterrae.cl	Si	Privada	7561	1314	26	40	0	Vencer al mal con el bien	Descripción	1
+Universidad Autónoma de Chile	30	UA	11/08/1989	www.uautonoma.cl	Si	Privada	20343	1675	29	15	3	Más Universidad. Duc in altum	Descripción	1
+Universidad Arturo Prat	31	UNAP	14/12/1984	www.unap.cl	Si	Estatal	13115	181	55	20	1	La única manera de que el pueblo alcance su libertad es con educación	Descripción	1
+Universidad Tecnológica Metropolitana	32	UTEM	30/08/1993	www.utem.cl	Si	Estatal	7647	728	35	9	6	Creemos en tu talento	Descripción	1
+Universidad Central de Chile	33	UCEN	09/11/1982	www.ucentral.cl	No	Privada	13000	1099	43	0	41	Tu pasión es lo que Chile necesita. Independencia, Pluralismo, Compromiso	Descripción	1
+Universidad Católica Silva Henríquez	34	UCSH	01/01/1982	ww3.ucsh.cl	Si	Privada	5538	502	26	15	0	Lo que aprendes se lleva toda la vida	Descripción	1
+Universidad Bernardo O'Higgins	35	UBO	01/03/1990	www.ubo.cl	Si	Privada	3950	285	23	0	5	Seriedad y calidad. Tradición y saber	Descripción	1
+Universidad Gabriela Mistral	36	UGM	01/01/1981	www.ugm.cl	No	Privada	2750	516	12	20	0	Formando personas de calidad	Descripción	1
+Universidad de Los Lagos	37	ULAGOS	30/08/1993	www.ulagos.cl	Si	Estatal	3946	269	40	9	2	Pública, Integral, Innovadora	Descripción	1
+Universidad de Magallanes	38	UM AG	26/10/1981	www.umag.cl	Si	Estatal	1173	630	49	10	0	Conocimiento en el Sur	Descripción	1
+Universidad Santo Tomás	39	UST	29/08/1988	www.santotomas.cl	No	Privada	29495	4445	27	22	0	Tú Puedes. Lux et Veritas	Descripción	1
+Universidad de Atacama	40	UDA	26/10/1981	www.uda.cl	Si	Estatal	2896	212	25	0	0	Tradición + Futuro. Desde 1857 en la Enseñanza Minera de Chile	Descripción	1
+Universidad de Las Américas	41	UDLA	12/10/1988	www.udla.cl	No	Privada	24000	3000	50	0	0	Tu meta es la nuestra	Descripción	1
+Universidad Adventista de Chile	42	UnACh	06/02/1990	www.unach.cl	No	Privada	1811	0	25	3	0	Al servicio de Dios y la humanidad	Descripción	1
+Universidad del Pacífico	43	UPA	01/01/1990	www.upacifico.cl	No	Privada	5412	554	26	7	0	Creatividad para Emprender	Descripción	1
+Universidad de Viña del Mar	44	UVM	21/11/1988	www.uvm.cl	No	Privada	8000	500	36	10	0	Más que un título	Descripción	1
+Universidad Tecnológica de Chile	45	INACAP	21/10/1966	www.inacap.cl	Si	Privada	120000	5000	59	20	0	Los profesionales que Chile necesita	Descripción	2
+Universidad UNIACC	46	UNIACC	01/01/1981	www.uniacc.cl	No	Privada	2146	245	30	5	1	Bienvenido a Crear	Descripción	1
+Universidad Pedro de Valdivia	47	UPV	01/01/2006	www.upv.cl	No	Privada	11513	1564	18	0	0	Por tu derecho a ser más	Descripción	1
+Universidad SEK	48	USEK	01/01/1990	www.usek.cl	No	Privada	708	205	28	3	1	Ser mejores	Descripción	1
+Universidad de Aconcagua	49	UAC	29/12/1989	www.uac.cl	No	Privada						Formamos personas que resuelven problemas. Humanística, Científica, Tecnológica	Descripción	1
+Universidad Iberoamericana de Ciencias y Tecnología	50	UNICIT	17/04/1989	www.uibero.cl	No	Privada	3429	455	20	0	0	Educación de calidad es calidad de vida. Aprender haciendo	Descripción	0
+Universidad Los Leones	51	ULL	01/01/2010	uleones.com	No	Privada						Sapientia Et Humanitas	Descripción	0
+Universidad de Aysén	52	UYA	07/08/2015	www.uaysen.cl	Si	Estatal						Vive tu Universidad, vive nuestra Patagonia.	Descripción	1

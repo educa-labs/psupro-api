@@ -1,0 +1,230 @@
+Nombre	ID	Universidad	ID Universidad	Latitud	Longitud	Dirección	Ciudad	Región	id_region
+Juan Gómez Millas	1	Universidad de Chile	1	-334.659.887	-705.970.512	Las Encinas 3305 Ñuñoa	Santiago	IV	4
+Casa Central	2	Universidad de Chile	1	-334.445.011	-706.530.677	Av. Libertador Bernardo O'Higgins 1058	Santiago	RM	13
+Andrés Bello	3	Universidad de Chile	1	-334.420.871	-706.389.067	Diagonal Paraguay 265, Providencia	Santiago	RM	13
+Beauchef	4	Universidad de Chile	1	-334.577.195	-706.656.386	Beauchef 850	Santiago	RM	13
+Norte	5	Universidad de Chile	1	-334.182.906	-706.574.318	Santos Dumont 999, Independencia	Santiago	RM	13
+Sur	6	Universidad de Chile	1	-335.720.235	-706.337.358	Av. Sta. Rosa 11315, La Pintana	Santiago	RM	13
+Sede Alfonso Letelier Llona	7	Universidad de Chile	1	-334.423.248	-706.643.821	Compania 1264	Santiago	RM	13
+Casa Central	8	Pontificia Universidad Católica de Chile	2	-334.411.279	-70.642.982	Av Libertador Bernardo O'Higgins 340	Santiago	RM	13
+Campus San Joaquin	9	Pontificia Universidad Católica de Chile	2	-334.975.795	-706.144.367	Av. Vicuña Mackenna 4860, Macul, La Florida, Región Metropolitana	Santiago	RM	13
+Campus Lo Contador	10	Pontificia Universidad Católica de Chile	2	-334.198.806	-706.197.331	El Comendador 1916, Providencia, Región Metropolitana	Santiago	RM	13
+Campus Oriente	11	Pontificia Universidad Católica de Chile	2	-334.469.184	-705.966.054	Jaime Guzmán Errázuriz 3300, Providencia, Ñuñoa, Región Metropolitana	Santiago	RM	13
+Sede Villarrica	12	Pontificia Universidad Católica de Chile	2	-392.775.072	-722.276.451	O'higgins 501, Villarrica	Villarrica	IX	9
+Concepción	13	Universidad de Concepción	3	-368.294.765	-730.363.712	Víctor Lamas 1290	Concepción	VIII	8
+Chillán	14	Universidad de Concepción	3	-365.967.539	-720.870.059	Vicente Méndez 595, Chillan	Chillán	VIII	8
+Los Ángeles	15	Universidad de Concepción	3	-374.719.549	-723.463.416	Juan Antonio Coloma 0201, Los Angeles	Los Ángeles	VIII	8
+Único	16	Universidad de Santiago de Chile	4	-334.517.605	-706.883.202	Av Libertador Bernardo O'Higgins 3363	Santiago	RM	13
+Facultad de Ingeniería	17	Universidad de Santiago de Chile	4	-334.466.186	-70.685.612	Las Sophoras 165, Santiago, Estación Central	Santiago	RM	13
+Facultad Tecnología	18	Universidad de Santiago de Chile	4	-334.496.991	-706.906.295	Avenida Ecuador Nº 3769	Santiago	RM	13
+Casa Central Valparaíso	19	Universidad Técnica Federico Santa María	5	-330.347.298	-71.630.632	Avenida de, Av. España 1680	Valparaíso	V	5
+Santiago San Joaquín	20	Universidad Técnica Federico Santa María	5	-334.900.965	-706.195.396	Vicuña Mackenna 3939, San Joaquín	Santiago	RM	13
+Santiago Vitacura	21	Universidad Técnica Federico Santa María	5	-333.775.228	-705.785.255	Sta María 6400, Vitacura	Santiago	RM	13
+Campus Viña del Mar	22	Universidad Técnica Federico Santa María	5	-330.384.943	-715.034.038	Av. Federico Santa María 6090, Viña del Mar, Quilpué, 	Valparaíso	V	5
+Campus Concepción	23	Universidad Técnica Federico Santa María	5	-367.849.016	-730.868.153	Arteaga Alemparte 943, Hualpen, Talcahuano	Concepción	VIII	8
+Casa Central Valparaíso	24	Pontifica Universidad Católica de Valparaíso	6	-33.044.407	-716.069.663	Brasil 2950, Valparaíso	Valparaíso	V	5
+Campus Quillota	25	Pontifica Universidad Católica de Valparaíso	6	-328.961.158	-712.115.283	Estación Experimental La Palma S/N, San Francisco	Quillota	V	5
+Centro Universitario María Teresa Brown de Ariztía. Sausalito PUCV	26	Pontifica Universidad Católica de Valparaíso	6	-330.127.159	-715.415.139	Avenida El Bosque 1290, de, Sausalito, Viña del Mar	Viña del Mar	V	5
+Facultad de Agronomía	27	Pontifica Universidad Católica de Valparaíso	6	-329.702.419	-714.776.459	Estación Experimental La Palma S/N, San Francisco, Quillota,	Quillota	V	5
+Escuela de Arquitectura y Diseño	28	Pontifica Universidad Católica de Valparaíso	6	-330.269.756	-715.833.577	Manuel Antonio Matta 12, Viña del Mar	Viña del Mar	V	5
+Campus Cuaruma	29	Pontifica Universidad Católica de Valparaíso	6	-331.459.996	-715.743.408	Av. Universidad 330, Curauma	Carauma	V	5
+Edificio Monseñor Gimpert	30	Pontifica Universidad Católica de Valparaíso	6	-330.445.426	-716.083.638	Brasil 2830	Valparaíso	V	5
+Centro Universitario Rafael Ariztía	31	Pontifica Universidad Católica de Valparaíso	6	-330.445.423	-716.149.299	Brasil 2147	Valparaíso	V	5
+Edificio Isabel Brown Caces	32	Pontifica Universidad Católica de Valparaíso	6	-33.044.407	-716.080.607	Av. Brasil 2141	Valparaíso	V	5
+Escuela de Ingeniería	33	Pontifica Universidad Católica de Valparaíso	6	-330.444.067	-716.146.268	Brasil 2085, Valparaíso	Valparaíso	V	5
+Campus Isla Teja	34	Universidad Austral de Chile	7	-398.061.227	-732.527.213	Independencia 641	Valdivia	XIV	14
+Campus Miraflores	35	Universidad Austral de Chile	7	-398.331.159	-732.531.051	Gral Lagos 2086	Valdivia	XIV	14
+Campus Patagonia	36	Universidad Austral de Chile	7	-460.037.184	-73.739.856	Coyhaique	Puerto Aysén	XI	11
+Sede Puerto Montt	37	Universidad Austral de Chile	7	-41.490.943	-728.987.617	Los Pinos s/n Balneario Pelluco	Puerto Montt	X	10
+Casa Central	38	Universidad Diego Portales	8	-334.498.654	-706.638.352	Calle Vergara 210,	Santiago	RM	13
+Campus Talca	39	Universidad de Talca	9	-354.041.282	-716.380.366	Avda. Lircay s/n	Talca	VII	7
+Campus Curicó	40	Universidad de Talca	9	-350.019.129	-712.322.646	Los Niches S/N	Curicó	VII	7
+Campus Colchagua	41	Universidad de Talca	9	-346.493.685	-713.568.757	Ramón Sanfurgo 980	Santa Cruz	VI	6
+Campus Linares	42	Universidad de Talca	9	-358.480.643	-715.812.311	Oriente 591	Linares	VII	7
+Campus Santiago-LBI	43	Universidad de Talca	9	-333.955.292	-705.712.531	Nuestra Señora del Rosario 1120, Vitacura	Santiago	RM	13
+Campus Santiago	44	Universidad de Talca	9	-334.733.038	-706.256.205	Sta Elena 2222, San Joaquín	Santiago	RM	13
+Campus Peñalolén	45	Universidad Adolfo Ibáñez	10	-334.894.238	-705.188.557	Diagonal Las Torres 2640, Penalolen	Santiago	RM	13
+Campus Viña del Mar	46	Universidad Adolfo Ibáñez	10	-330.194.761	-715.313.669	Padre Hurtado 750	Viña del Mar	V	5
+Campus Pdte Errázuriz	47	Universidad Adolfo Ibáñez	10	-334.211.063	-705.939.025	Pdte Errázuriz 3485, Las Condes	Santiago	RM	13
+Campus Andrés Bello	48	Universidad de la Frontera	11	-387.499.889	-726.160.248	Francisco Salazar 1145	Temuco	IX	9
+Campus de La Salud	49	Universidad de la Frontera	11	-387.379.946	-726.013.956	Claro Solar 115	Temuco	IX	9
+Campus Malleco	50	Universidad de la Frontera	11	-37.800.367	-727.049.327	Bernardo O'Higgins 050	Angol	IX	9
+Campus Pucón	51	Universidad de la Frontera	11	-39.273.961	-719.804.412	Caupolicán 78	Pucón	IX	9
+Campus San Felipe	52	Universidad de Valparaíso	12	-32.741.613	-707.070.964	Camino la Troya S/N & El Convento	San Felipe	V	5
+Campus Santiago	53	Universidad de Valparaíso	12	-332.678.375	-714.135.955	Gran Avenida Jose Miguel Carrera 4160, San Miguel	Santiago	RM	13
+Casa Central	54	Universidad de Valparaíso	12	-330.440.351	-71.619.567	Las Heras 6, Valparaíso	Valparaíso	V	5
+Facultad de Arquitectura	55	Universidad de Valparaíso	12	-330.254.361	-716.410.661	Av.El Parque 570, Valparaíso	Valparaíso	V	5
+Facultad de Farmacia	56	Universidad de Valparaíso	12	-330.354.848	-716.452.996	Gran Bretaña 1093, Playa Ancha	Valparaíso	V	5
+Facultad de Medicina	57	Universidad de Valparaíso	12	-330.479.658	-716.216.779	Hontaneda 2653	Valparaíso	V	5
+Casa Central	58	Universidad de los Andes	13	-334.040.492	-705.104.538	Monseñor Álvaro del Portillo 12455, Las Condes	Santiago	RM	13
+Campus San Carlos de Apoquindo	59	Universidad de los Andes	13	-334.064.949	-705.062.274	San Carlos de Apoquindo 2858	Santiago	RM	13
+Casa Central	60	Universidad Andrés Bello	14	-334.265.335	-706.213.217	Bellavista 121, Recoleta	Santiago	RM	13
+Campus Antonio Varas	61	Universidad Andrés Bello	14	-334.265.335	-706.213.217	Antonio Varas 810, Providencia	Santiago	RM	13
+Compus Los Leones	62	Universidad Andrés Bello	14	-334.265.335	-706.213.217	Los Leones 767, Providencia	Santiago	RM	13
+Campus Concepción	63	Universidad Andrés Bello	14	-367.798.405	-730.782.774	Autopista Concepción - Talcahuano 7100	Concepción	VIII	8
+Campus Viña del Mar	64	Universidad Andrés Bello	14	-330.119.654	-715.425.675	Quillota 980	Viña del Mar	V	5
+Campus Casona de las Condes	65	Universidad Andrés Bello	14	-333.750.169	-705.072.958	Fernández Concha 700, Las Condes	Santiago	RM	13
+Campus República 	66	Universidad Andrés Bello	14	-334.515.796	-706.701.066	Av. República 237	Santiago	RM	13
+Casa Central Antofagasta	67	Universidad Católica del Norte	15	-23.680.637	-70.412.455	Av. Angamos 0610	Antofagasta	II	2
+Campus Guayacán Coquimbo	68	Universidad Católica del Norte	15	-299.646.306	-71.349.669	Calle Larrondo 1281	Coquimbo	IV	4
+Casa Central	69	Universidad de Tarapacá	16	-202.137.304	-701.550.115	Avda Anibal Pinto 595	Iquique	I	1
+Campus Azapa	70	Universidad de Tarapacá	16	-185.215.741	-701.803.605	Valle Azapa S/N	Arica	XV	15
+Campus Velásquez	71	Universidad de Tarapacá	16	-184.751.045	-703.158.859	Calle Velasquez 1775	Arica	XV	15
+Campus Saucache	72	Universidad de Tarapacá	16	-184.882.867	-702.958.921	18 de Septiembre 2222, Arica	Arica	XV	15
+Campus Concepción	73	Universidad del Bío-Bío	17	-368.227.808	-730.136.946	Av. Casilla 5-C, Collao 1202	Concepción	VIII	8
+Campus Chillán	74	Universidad del Bío-Bío	17	-366.024.529	-720.770.209	Andrés Bello 720, Chillan	Chillán	VIII	8
+Campus Concepción	75	Universidad del Desarrollo	18	-368.215.405	-730.391.608	Ainavillo 456	Concepción	VIII	8
+Campus Las Condes	76	Universidad del Desarrollo	18	-333.718.975	-70.524.775	Av. Las Condes 12587, Lo Barnechea	Santiago	RM	13
+Sede Santiago Campus Rector Ernesto Silva Bafalluy	77	Universidad del Desarrollo	18	-333.905.243	-705.004.115	Av La Plaza 680, Las Condes	Santiago	RM	13
+Campus Unico	78	Universidad Alberto Hurtado	19	-3.344.598	-706.626.374	Almirante Barroso 10	Santiago	RM	13
+Campus Andrés Bello	79	Universidad de La Serena	20	-299.129.628	-71.243.723	Raúl Bitrán 1305	La Serena	IV	4
+Campus Coquimbo	80	Universidad de La Serena	20	-299.608.784	-713.499.111	Avda Matta 147	Coquimbo	IV	4
+Campus Enrique Molina Garmendia	81	Universidad de La Serena	20	-299.086.429	-712.553.986	Amunátegui, S/N.	La Serena	IV	4
+Campus Ignacio Domeyko	82	Universidad de La Serena	20	-299.086.438	-712.488.325	Benavente 980	La Serena	IV	4
+Campus Isabel Bongard	83	Universidad de La Serena	20	-299.086.438	-712.488.325	Amunátegui 851, La Serena	Coquimbo	IV	4
+Campus Coloso	84	Universidad de Antofagasta	21	-299.086.438	-712.488.325	Av. Universidad de Antofagasta	Antofagasta	II	2
+Campus Angamos	85	Universidad de Antofagasta	21	-236.691.073	-704.075.826	Av. Angamos 601	Antofagasta	II	2
+Campus Menchaca Lira	86	Universidad Católica de Temuco	22	-387.360.738	-726.097.284	Av. Alemania 0422	Temuco	IX	9
+Campus San Francisco	87	Universidad Católica de Temuco	22	-387.369.081	-726.032.963	Manuel Montt 56	Temuco	IX	9
+Campus San Juan Pablo II	88	Universidad Católica de Temuco	22	-387.038.137	-72.553.544	Rudecindo Ortega 2950	Temuco	IX	9
+Casa Central	89	Universidad Católica del Maule	23	-354.354.218	-716.221.885	Av. San Miguel 3605	Talca	VII	7
+Campus Nuestra Señora del Carmen	90	Universidad Católica del Maule	23	-349.839	-712.408.957	Carmen 684	Curicó	VII	7
+Campus San Andrés	91	Universidad Católica de la Santísima Concepción	24	-36.798.554	-73.055.917	Alonso de Ribera 2850	Concepción	VIII	8
+Campus Santo Domingo	92	Universidad Católica de la Santísima Concepción	24	-36.830.602	-73.052.218	Lincoyan 255	Concepción	VIII	8
+Campus Talcahuano	93	Universidad Católica de la Santísima Concepción	24	-367.365.548	-731.059.333	Avda Colon 2766, Talcahuano	Concepción	VIII	8
+Campus Santiago	94	Universidad San Sebastián	25	-334.461.294	-706.702.112	Ricardo Cumming 40	Santiago	RM	13
+Campus Concepción, Las Tres Pascualas	95	Universidad San Sebastián	25	-36.812.924	-730.447.953	Lientur 1457	Concepción	VIII	8
+Campus Valdivia	96	Universidad San Sebastián	25	-398.205.727	-732.513.979	Calle Gral Lagos 1190	Valdivia	XIV	14
+Campus de La Patagonia, Pichi Pelluco	97	Universidad San Sebastián	25	-414.696.278	-729.093.474	Lago Panguipulli 1390	Puerto Montt	X	10
+Campus Bellavista	98	Universidad San Sebastián	25	-334.347.951	-706.529.936	Bellavista 7, Recoleta, Providencia	Santiago	RM	13
+Casa Central	99	Universidad de Playa Ancha	26	-330.246.667	-716.427.406	Playa Ancha 850	Valparaíso	V	5
+Campus San Felipe	100	Universidad de Playa Ancha	26	-328.862.205	-714.659.299	Benigno Caldera 25	San Felipe	V	5
+Sede Valparaíso	101	Universidad de Playa Ancha	26	-330.272.893	-716.422.112	Av. Playa Ancha 850	Valparaíso	V	5
+Casa Central	102	Universidad Mayor	27	-334.202.953	-705.928.192	Gertrudis Echenique 485, Las Condes	Santiago	RM	13
+Campus Huechuraba	103	Universidad Mayor	27	-33.377.331	-70.616.341	Camino La Pirámide 5750, Huechuraba	Santiago	RM	13
+Campus Santo Domingo	104	Universidad Mayor	27	-334.357.999	-706.474.165	Santo Domingo 705	Santiago	RM	13
+Campus El Claustro	105	Universidad Mayor	27	-334.467.387	-706.357.964	321 Portugal	Santiago	RM	13
+Campus Manuel Montt	106	Universidad Mayor	27	-334.320.776	-706.210.605	Av. Manuel Montt 367	Santiago	RM	13
+Campus Alameda	107	Universidad Mayor	27	-33.446.313	-706.663.531	Av Libertador Bernardo O'Higgins 2027	Santiago	RM	13
+Campus República	108	Universidad Mayor	27	-334.479.808	-706.693.948	Liber Bernardo O'Higgins 2240, Maipú	Santiago	RM	13
+Campus Alonso de Córdova	109	Universidad Mayor	27	-334.212.706	-706.071.839	San Pío X 2422, Providencia	Santiago	RM	13
+Campus Estadio Mayor	110	Universidad Mayor	27	-334.911.062	-70.560.311	Mariano Sánchez Fontecilla 13010, Peñalolén	Santiago	RM	13
+Campus Temuco	111	Universidad Mayor	27	-387.358.636	-72.607.724	Av. Alemania 281	Temuco	IX	9
+Campus Oriente	112	Universidad Mayor	27	-334.129.261	-705.848.298	Apoquindo Ote. 6949, Las Condes	Santiago	RM	13
+Campus Vespucio	113	Universidad Mayor	27	-334.218.982	-705.885.746	Avda. Américo Vespucio Sur N°357 Las Condes	Santiago	RM	13
+Campus Macul	114	Universidad Metropolitana de Ciencias de la Educación	28	-334.618.196	-70.599.041	Av. José Pedro Alessandri 774, Ñuñoa	Santiago	RM	13
+Campus Joaquín Cabezas	115	Universidad Metropolitana de Ciencias de la Educación	28	-334.654.298	-706.055.335	Dr. Luis Bisquert 2765. 7750000 Ñuñoa.	Santiago	RM	13
+Casa Central	116	Universidad Finis Terrae	29	-334.371.007	-706.101.401	Av. Pedro de Valdivia 1509, Providencia	Santiago	RM	13
+Campus Providencia	117	Universidad Autónoma de Chile	30	-33.427.372	-70.611.103	Av. Pedro de Valdivia 425	Santiago	RM	13
+Campus El Llano	118	Universidad Autónoma de Chile	30	-33.486.472	-7.065.354	Ricardo Morales 3369, San Miguel	Santiago	RM	13
+Temuco	119	Universidad Autónoma de Chile	30	-38.731.964	-72.619.479	Av. Alemania 1090, Temuco	Temuco	IX	9
+Talca	120	Universidad Autónoma de Chile	30	-354.161.071	-716.674.916	5 y Medio Norte 1670	Talca	VII	7
+Sur	121	Universidad Autónoma de Chile	30	-354.161.071	-716.674.916	Calle Seis Oriente 2275, D 0 P 00	Talca	VII	7
+Sede Santiago	122	Universidad Arturo Prat	31	-334.347.626	-706.649.098	San Pablo 1796	Santiago	RM	13
+Sede Arica	123	Universidad Arturo Prat	31	-184.601.923	-702.969.848	Av. Sta. Maria 2998	Arica	XV	15
+Sede Calama	124	Universidad Arturo Prat	31	-224.719.974	-689.267.134	Esmeralda 1814	Calama	II	2
+Casa Central	125	Universidad Arturo Prat	31	-20.243.629	-70.143.691	Arturo Prat Chacón 2120	Iquique	I	1
+Sede Antofagosta	126	Universidad Arturo Prat	31	-2.364.563	-703.968.087	Latorre 2901	Antofagasta	II	2
+Sede Victoria	127	Universidad Arturo Prat	31	-382.320.647	-723.441.327	O'higgin 0195	Victoria	IX	9
+Campus Central	128	Universidad Tecnológica Metropolitana	32	-334.501.609	-706.597.174	Dieciocho 390. Santiago.	Santiago	RM	13
+Campus Providencia	129	Universidad Tecnológica Metropolitana	32	-334.349.673	-706.271.956	Dr. Hernán Alessandri 644. Providencia.	Santiago	RM	13
+Campus Macul	130	Universidad Tecnológica Metropolitana	32	-334.634.411	-705.989.067	José Pedro Alessandri 1242. Ñuñoa.	Santiago	RM	13
+Casa Central	131	Universidad Central de Chile	33	-334.530.013	-706.622.069	Toesca 1783	Santiago	RM	13
+La Serena	132	Universidad Central de Chile	33	-2.990.603	-712.661.257	Francisco de Aguirre 0405	La Serena	IV	4
+Kovacevic I	133	Universidad Central de Chile	33	-334.524.172	-70.659.644	Santa Isabel 1186 5to	Santiago	RM	13
+Kovacevic II	134	Universidad Central de Chile	33	-334.524.533	-706.596.011	Santa Isabel 1278, Providencia	Santiago	RM	13
+Sede Santiago	135	Universidad Central de Chile	33	-334.523.991	-706.596.654	Lord Cochrane 417	Santiago	RM	13
+Almagro I	136	Universidad Central de Chile	33	-334.529.968	-706.622.122	San Ignacio 414	Santiago	RM	13
+Centro de Extensión Universidad Central	137	Universidad Central de Chile	33	-334.524.352	-706.596.225	Lord Cochrane 416	Santiago	RM	13
+Campus Los Cañas	138	Universidad Católica Silva Henríquez	34	-335.249.297	-705.568.204	Lo Cañas 3636, La Florida	Santiago	RM	13
+Casa Central	139	Universidad Católica Silva Henríquez	34	-334.365.302	-706.809.421	Gral Jofre 462	Santiago	RM	13
+Casa Central	140	Universidad Bernardo O'Higgins	35	-334.671.903	-706.594.713	Av. Viel 1497	Santiago	RM	13
+Campus Rondizzoni	141	Universidad Bernardo O'Higgins	35	-334.693.847	-706.594.403	General Gana 1702	Santiago	RM	13
+Unico. Sede Santiago	142	Universidad Gabriela Mistral	36	-33.432.103	-706.083.257	Av. Ricardo Lyon 1177, Providencia,	Santiago	RM	13
+Campus Osorno	143	Universidad de Los Lagos	37	-405.850.499	-730.935.245	Hertha Fuchslocher 1305	Osorno	X	10
+Campus Puerto Montt	144	Universidad de Los Lagos	37	-414.940.912	-729.898.737	Km. 6, Camino A Chinquihue, Puerto Montt	Puerto Montt	X	10
+Sede Chiloé	145	Universidad de Los Lagos	37	-424.785.461	-737.690.087	Los Carreras 678,	Castro	X	10
+Campus Punta Arenas	146	Universidad de Magallanes	38	-531.364.249	-708.809.105	Manuel Bulnes 01855	Punta Arenas	XII	12
+Centro Universitario de la Patagonia	147	Universidad de Magallanes	38	-455.690.368	-720.738.623	José Miguel Carrera 485	Coyhaique	XI	11
+Campus UST Santiago	148	Universidad Santo Tomás	39	-334.488.227	-706.631.533	Av. Ejército Libertador 146	Santiago	RM	13
+Campus La Serena	149	Universidad Santo Tomás	39	-29.908.667	-712.594.149	Ruta 5 Norte 1068. La Serena	La Serena	IV	4
+Campus Viña del Mar	150	Universidad Santo Tomás	39	-33.024.387	-715.503.447	Avenida 1 Norte 3041. Viña del Mar.	Viña del Mar	V	5
+Campus Arica	151	Universidad Santo Tomás	39	-124.450.009	-907.539.059	18 de Septiembre 1191. Arica.	Arica	XV	15
+Campus Iquique	152	Universidad Santo Tomás	39	-202.395.161	-701.472.649	Avenida Héroes de la Concepción 2885. Iquique.	Iquique	I	1
+Campus Antofagasta	153	Universidad Santo Tomás	39	-236.347.755	-703.961.026	Avenida Iquique, esquina Quito 3991. Antofagasta.	Iquique	I	1
+Campus Copiapó	154	Universidad Santo Tomás	39	-27.346.688	-703.643.724	Río Copiapó Sur 2351. Copiapó.	Copiapó	III	3
+Campus Talca	155	Universidad Santo Tomás	39	-354.287.087	-716.751.037	Avenida Carlos Schorr 255. Talca.	Talca	VII	7
+Campus Concepción	156	Universidad Santo Tomás	39	-368.265.029	-730.638.159	Avenida Prat 879. Concepción.	Concepción	VIII	8
+Campus Los Ángeles	157	Universidad Santo Tomás	39	-374.703.335	-723.514.433	Lautaro 280. Los Angeles.	Los Ángeles	VIII	8
+Campus Temuco	158	Universidad Santo Tomás	39	-387.354.071	-7.260.439	Manuel Rodríguez 060. Temuco.	Temuco	IX	9
+Campus Valdivia	159	Universidad Santo Tomás	39	-398.173.276	-732.349.056	Avenida Ramón Picarte 1160. Valdivia.	Valdivia	XIV	14
+Campus Osorno	160	Universidad Santo Tomás	39	-405.721.675	-731.395.818	Los Carrera 753. Osorno.	Osorno	X	10
+Campus Puerto Montt	161	Universidad Santo Tomás	39	-414.728.137	-729.310.207	Buena Vecindad 91. Puerto Montt.	Puerto Montt	X	10
+Sede Central	162	Universidad de Atacama	40	-273.568.055	-703.547.871	Copayapu 485	Capiapó 	III	3
+Sede Santiago	163	Universidad de Atacama	40	-334.501.808	-706.597.349	Calle Dieciocho 289	Santiago	RM	13
+Sede Vallenar	164	Universidad de Atacama	40	-285.755.567	-707.599.591	Ramírez 961	Vallenar	III	3
+Campus La Florida	165	Universidad de Las Américas	41	-335.247.083	-70.596.716	Walker Martínez 1360 - Piso 3, La Florida	Santiago	RM	13
+Campus Maipú	166	Universidad de Las Américas	41	-335.101.508	-707.520.762	Avda. 5 de Abril 0620, Maipú	Santiago	RM	13
+Campus Providencia	167	Universidad de Las Américas	41	-334.368.817	-706.182.008	Av. Manuel Montt 948, Providencia	Santiago	RM	13
+Campus Santiago Centro	168	Universidad de Las Américas	41	-334.406.012	-706.481.135	Av. República 71 - Piso 2, Santiago Centro	Santiago	RM	13
+Campus Los Castaños	169	Universidad de Las Américas	41	-33.017.308	-715.434.227	7 Nte. 1348	Viña del Mar	V	5
+Campus Cachabuco	170	Universidad de Las Américas	41	-368.312.616	-730.518.243	Chacabuco 539	Concepción	VIII	8
+Campus El Boldal	171	Universidad de Las Américas	41	-367.833.303	-730.605.804	Av. Pdte. Jorge Alessandri Rodriguez 1160, Talcahuano	Concepción	VIII	8
+Campus Las Mariposas	172	Universidad Adventista de Chile	42	-366.374.887	-719.988.639	a KM 12, Las Mariposas, Chillan	Chillán	VIII	8
+Sede Las Condes	173	Universidad del Pacífico	43	-33.378.081	-70.529.831	Las Condes 11121, Las Condes	Santiago	RM	13
+Sede Melipilla	174	Universidad del Pacífico	43	-33.672.646	-712.157.915	Avenida José Massoud 533, Melipilla	Santiago	RM	13
+Campus Centro	175	Universidad de Viña del Mar	44	-330.250.654	-715.662.756	Diego Portales 90	Viña del Mar	V	5
+Campus Rodelillo	176	Universidad de Viña del Mar	44	-330.364.056	-715.691.068	Agua Santa 7055, sector Rodelillo	Viña del Mar	V	5
+Campus Miraflores	177	Universidad de Viña del Mar	44	-330.482.604	-715.837.736	Los Fresnos 91. Viña del Mar.	Viña del Mar	V	5
+Sede San Felipe	178	Universidad de Viña del Mar	44	-327.528.171	-707.331.128	Av. Maipú 376. San Felipe.	San Felipe	V	5
+Casa Central	179	Universidad Tecnológica de Chile	45	-332.555.331	-714.160.348	Av. Vitacura 10.151, Vitacura, Santiago	Santiago	RM	13
+Sede Punta Arenas	180	Universidad Tecnológica de Chile	45	-531.314.322	-708.812.986	Avda Bulnes Km. 4 Norte, Punta Arenas	Punta Arenas	XII	12
+Sede Iquique	181	Universidad Tecnológica de Chile	45	-205.505.089	-720.922.848	Av. La Tirana 4310	Iquique	I	1
+Sede Calama	182	Universidad Tecnológica de Chile	45	-225.734.383	-705.541.989	Av. Granaderos 3250	Calama	II	2
+Sede Antofagosta	183	Universidad Tecnológica de Chile	45	-237.652.369	-705.816.647	Av. Edmundo Pérez Zujovic 11092	Antofagasta	II	2
+Sede Copiapó	184	Universidad Tecnológica de Chile	45	-273.588.084	-698.691.056	Circunvalación 281	Copiapó	III	3
+Sede Valparaíso	185	Universidad Tecnológica de Chile	45	-32.799.933	-710.397.429	Avda España # 2250	Valparaíso	V	5
+Sede Santiago Centro	186	Universidad Tecnológica de Chile	45	-33.567.677	-709.463.591	Almirante Barroso # 76	Santiago	RM	13
+Sede Renca	187	Universidad Tecnológica de Chile	45	-335.528.002	-70.828.256	Bravo de Saravia # 2980	Santiago	RM	13
+Sede Pérez Rosales	188	Universidad Tecnológica de Chile	45	-335.528.002	-70.828.256	Brown Norte # 290	Santiago	RM	13
+Sede Santiago Sur	189	Universidad Tecnológica de Chile	45	-335.528.002	-70.828.256	Avda Vicuña Mackenna # 3864	Santiago	RM	13
+Sede Rancagua	190	Universidad Tecnológica de Chile	45	-338.662.675	-715.905.917	Avda Nelson Pereira 2519	Rancagua	VI	6
+Sede Talca	191	Universidad Tecnológica de Chile	45	-354.118.435	-715.960.849	Av. San Miguel 3552	Talca	VII	7
+Sede Chillán	192	Universidad Tecnológica de Chile	45	-368.633.032	-719.605.368	Avda Longitudinal Sur 380, Internet 2000	Chillán	VIII	8
+Sede Concepción Talcahuano	193	Universidad Tecnológica de Chile	45	-369.248.072	-729.877.585	Autopista Concepción Talcahuano # 7421	Talcahuano	VIII	8
+Sede Los Ángeles	194	Universidad Tecnológica de Chile	45	-373.888.693	-728.559.226	Av. Ricardo Vicuña 825	Los Angeles	VIII	8
+Sede Temuco	195	Universidad Tecnológica de Chile	45	-390.140.058	-729.795.188	Luis Durand # 02150,	Temuco	IX	9
+Sede Valdivia	196	Universidad Tecnológica de Chile	45	-399.172.647	-730.756.491	Avenida Pedro Aguirre Cerda 2115, Las Ánimas	Valdivia	XIV	14
+Sede Osorno	197	Universidad Tecnológica de Chile	45	-407.172.318	-732.871.359	Av. René Soriano # 2382	Osorno	X	10
+Sede Puerto Montt	198	Universidad Tecnológica de Chile	45	-425.361.886	-746.390.662	Avda Padre Harter # 125	Puerto Montt	X	10
+Sede Coyhaique	199	Universidad Tecnológica de Chile	45	-450.085.361	-738.662.505	Las Violetas # 171	Coyhaique	XI	11
+Sede La Serena	200	Universidad Tecnológica de Chile	45	-299.074.308	-712.656.999	Av. Francisco de Aguirre 389.La Serena.	La Serena	IV	4
+Sede Maipú	201	Universidad Tecnológica de Chile	45	-33.464.428	-707.417.056	Av. Américo Vespucio 974. Maipú	Santiago	RM	13
+Sede Puente Alto	202	Universidad Tecnológica de Chile	45	-33.585.721	-705.836.637	Av. Concha y Toro 2730, Puente Alto.	Santiago	RM	13
+Campus Universitario	203	Universidad UNIACC	46	-334.442.781	-706.251.693	Av. Salvador 1200, Providencia	Santiago	RM	13
+Campus Plaza Italia	204	Universidad Pedro de Valdivia	47	-334.442.768	-706.404.902	Vicuña Mackenna 44, Providencia	Santiago	RM	13
+Campus Santiago Centro	205	Universidad Pedro de Valdivia	47	-334.428.444	-706.684.281	Huérfanos 1546	Santiago	RM	13
+Campus Avenida Matta	206	Universidad Pedro de Valdivia	47	-236.532.902	-70.402.747	Avenida. Matta 2065, Antofagasta.	Antofagasta	II	2
+Campus Arturo Prat	207	Universidad Pedro de Valdivia	47	-23.652.337	-70.395.326	Arturo Prat 1033	Antofagasta	II	2
+Campus Bolivar	208	Universidad Pedro de Valdivia	47	-236.462.353	-703.980.253	Bolivar 467, Antofagasta.	Antofagasta	II	2
+Campu La Serena	209	Universidad Pedro de Valdivia	47	-299.277.278	-712.777.053	Avenida Cuatro Esquinas 60, La Serena	La Serena	IV	4
+Campus República	210	Universidad Pedro de Valdivia	47	-334.478.031	-706.690.929	Alameda 2222, Santiago Centro.	Santiago	RM	13
+Campus O`Higgins	211	Universidad Pedro de Valdivia	47	-368.227.675	-730.405.903	O'Higgins 1565	Concepción	VIII	8
+Campus Pedro Aguirre Cerda	212	Universidad Pedro de Valdivia	47	-368.265.903	-730.432.906	Pedro Aguirre Cerda N° 1249 	Concepción	VIII	8
+Campus Providencia	213	Universidad SEK	48	-33.430.876	-70.626.244	Avenida Santa María 0760, Providencia.	Santiago	RM	13
+Campus Providencia . Edificio Fernando Manterola	214	Universidad SEK	48	-334.317.098	-706.270.877	Fernando Manterola 0789. (Bellavista Alt. 800), Providencia	Santiago	RM	13
+Campus Santa Ana	215	Universidad SEK	48	-33.438.525	-70.661.254	Catedral 1712,	Santiago	RM	13
+Campus Santiago Centro	216	Universidad SEK	48						
+Anexo Santa Laura	217	Universidad SEK	48						
+Campus Tocopilla	218	Universidad de Aconcagua	49	-220.937.142	-701.998.989	Washington Nº 1477	Tocopilla	II	2
+Campus Machalí	219	Universidad de Aconcagua	49	-341.916.246	-707.234.271	Carretera el Cobre KM. 4 , San Joaquín de los Mayos	Machalí	VI	6
+Sede Quilpué	220	Universidad de Aconcagua	49	-352.950.456	-725.956.407	Calle Camino Antiguo 2150, Quilpué	Valparaíso	V	5
+Casa Central	221	Universidad de Aconcagua	49	-33.751.177	-72.334.671	Antonio Bellet 444, piso 14 Of. 1401, Providencia	Santiago	RM	13
+Sede Rancagua	222	Universidad de Aconcagua	49	-350.564.184	-723.236.847	German Riesco 44, Rancagua	Rancagua	VI	6
+Campus Chillán	223	Universidad de Aconcagua	49	-350.564.184	-723.236.847	18 de septiembre Nº 960	Chillán	VIII	8
+Campus Linares	224	Universidad de Aconcagua	49	-357.548.711	-717.469.024	Yungay 762	Linares	VII	7
+Campus Concepción	225	Universidad de Aconcagua	49	-368.131.329	-720.105.743	Calle Freire 836, 2° piso, Oficina B-2	Concepción	VIII	8
+Casa Central	226	Universidad Iberoamericana de Ciencias y Tecnología	50	-334.493.539	-706.603.899	Padre Miguel de Olivares 1620	Santiago	RM	13
+Edificio Rosales	227	Universidad Iberoamericana de Ciencias y Tecnología	50	-334.504.998	-706.602.716	Diego de Rosales 1637,	Santiago	RM	13
+Único	228	Universidad Los Leones	51	-334.434.248	-711.928.799	Zenteno 234, Santiago, Chile	Santiago	RM	13
+Campus Río Simpson	229	Universidad de Aysén	52	-45.569.463	-720.667.973	Calle Obispo Vielmo N°62	Coyhaique	XI	11

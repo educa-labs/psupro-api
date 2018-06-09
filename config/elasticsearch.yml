@@ -1,0 +1,17 @@
+development:
+  host: <%= ENV.fetch('ELASTIC') %>
+  transport_options:
+    request:
+      timeout: 10
+
+test:
+  host: <%= ENV.fetch('ELASTIC') %>
+  transport_options:
+    request:
+      timeout: 10
+
+production:
+  host: <%= ENV.fetch('ELASTIC') %>
+  transport_options:
+    request:
+      timeout: 10

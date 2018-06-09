@@ -1,0 +1,25 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+
+development:
+  <<: *default
+  database: tuniversidad_development
+  username: admin
+  password: tuniversidad
+  host: db
+  
+test:
+  <<: *default
+  database: <%= ENV.fetch("RDS_DB_NAME") %>
+  username: <%= ENV.fetch("RDS_USERNAME") %>
+  password: <%= ENV.fetch("RDS_PASSWORD") %>
+  host: <%= ENV.fetch("RDS_HOSTNAME") %>
+
+production:
+  <<: *default
+  database: <%= ENV.fetch("RDS_DB_NAME") %>
+  username: <%= ENV.fetch("RDS_USERNAME") %>
+  password: <%= ENV.fetch("RDS_PASSWORD") %>
+  host: <%= ENV.fetch("RDS_HOSTNAME") %>
